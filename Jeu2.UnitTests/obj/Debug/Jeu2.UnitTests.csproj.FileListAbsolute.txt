@@ -1,0 +1,2 @@
+C:\Users\Formation\Projetdegroupe\Jeu2.UnitTests\obj\Debug\Jeu2.UnitTests.csproj.AssemblyReference.cache
+C:\Users\Formation\Projetdegroupe\Jeu2.UnitTests\obj\Debug\Jeu2.UnitTests.csproj.CoreCompileInputs.cache
