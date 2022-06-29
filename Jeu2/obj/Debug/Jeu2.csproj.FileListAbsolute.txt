@@ -5,6 +5,7 @@ D:\Formations\M2i\TEST\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.csproj.Asse
 D:\Formations\M2i\TEST\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.csproj.CoreCompileInputs.cache
 D:\Formations\M2i\TEST\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.exe
 D:\Formations\M2i\TEST\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.pdb
+<<<<<<< HEAD
 C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu2\bin\Debug\Jeu2.exe.config
 C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu2\bin\Debug\Jeu2.exe
 C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu2\bin\Debug\Jeu2.pdb
@@ -13,3 +14,13 @@ C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu2\obj\Debug\Jeu2.csp
 C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu2\obj\Debug\Jeu2.csproj.CoreCompileInputs.cache
 C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu2\obj\Debug\Jeu2.exe
 C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu2\obj\Debug\Jeu2.pdb
+=======
+C:\Users\pierr\source\repos\Projetdegroupe\Jeu2\bin\Debug\Jeu2.exe.config
+C:\Users\pierr\source\repos\Projetdegroupe\Jeu2\bin\Debug\Jeu2.exe
+C:\Users\pierr\source\repos\Projetdegroupe\Jeu2\bin\Debug\Jeu2.pdb
+C:\Users\pierr\source\repos\Projetdegroupe\Jeu2\obj\Debug\Jeu2.csproj.AssemblyReference.cache
+C:\Users\pierr\source\repos\Projetdegroupe\Jeu2\obj\Debug\Jeu2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pierr\source\repos\Projetdegroupe\Jeu2\obj\Debug\Jeu2.csproj.CoreCompileInputs.cache
+C:\Users\pierr\source\repos\Projetdegroupe\Jeu2\obj\Debug\Jeu2.exe
+C:\Users\pierr\source\repos\Projetdegroupe\Jeu2\obj\Debug\Jeu2.pdb
+>>>>>>> 133df2aa6833c340f930699030782727434c29c5
