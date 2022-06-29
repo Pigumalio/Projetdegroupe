@@ -1,0 +1,8 @@
+C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu1\bin\Debug\Jeu1.exe.config
+C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu1\bin\Debug\Jeu1.exe
+C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu1\bin\Debug\Jeu1.pdb
+C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu1\obj\Debug\Jeu1.csproj.AssemblyReference.cache
+C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu1\obj\Debug\Jeu1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu1\obj\Debug\Jeu1.csproj.CoreCompileInputs.cache
+C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu1\obj\Debug\Jeu1.exe
+C:\Users\Formation\Dropbox\Cours\POE\7GIT\Projetdegroupe\Jeu1\obj\Debug\Jeu1.pdb

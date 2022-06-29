@@ -25,7 +25,7 @@
 
         private bool GagneLeCombat(int de1, int de2)
         {
-            return de1 >= de2;
+            return de1 > de2;
         }
     }
 }
