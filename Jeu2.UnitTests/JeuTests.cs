@@ -63,5 +63,24 @@ namespace Jeu2.UnitTests
             if (jeu.Heros.PointDeVies != 13)
                 Assert.Fail();
         }
+        [TestMethod]
+        [Description("Faux negatif sur dé gagnant sur TOUR")]
+        public void Faux_Negatif()
+        {
+            //Arrange
+            Jeu jeu = new Jeu();
+
+            //Act
+            var resultat = jeu.Tour(5, 2);
+
+            //Assert
+            if (resultat != Resultat.Perdu)
+                Assert.Fail();
+            if (jeu.Heros.Points < 0)
+                Assert.Fail();
+            if (jeu.Heros.PointDeVies < 0)
+                Assert.Fail();
+
+        }
     }
 }
