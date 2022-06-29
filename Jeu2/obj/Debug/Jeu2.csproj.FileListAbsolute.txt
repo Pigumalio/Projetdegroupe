@@ -1,0 +1,7 @@
+D:\Formations\M2i\TEST\DotNetTestingCourse\p2ch3\Jeu2\bin\Debug\Jeu2.exe.config
+D:\Formations\M2i\TEST\DotNetTestingCourse\p2ch3\Jeu2\bin\Debug\Jeu2.exe
+D:\Formations\M2i\TEST\DotNetTestingCourse\p2ch3\Jeu2\bin\Debug\Jeu2.pdb
+D:\Formations\M2i\TEST\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.csproj.AssemblyReference.cache
+D:\Formations\M2i\TEST\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.csproj.CoreCompileInputs.cache
+D:\Formations\M2i\TEST\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.exe
+D:\Formations\M2i\TEST\DotNetTestingCourse\p2ch3\Jeu2\obj\Debug\Jeu2.pdb
